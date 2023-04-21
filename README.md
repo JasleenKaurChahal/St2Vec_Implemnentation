@@ -23,12 +23,12 @@ And code has been used from the following website(citations below): https://gith
 ```
 
 
-Introduction:
+# Introduction:
 
 The objective of the paper is to propose ST2Vec, a deep learning-based solution for spatio-temporal similarity computation in road networks that considers both spatial and temporal relations between trajectories. The report aims to demonstrate that ST2Vec outperforms state-of-the-art competitors in terms of effectiveness and efficiency, while showing low parameter sensitivity and good model robustness. Additionally, similarity-involved case studies including top-k querying and DBSCAN clustering are conducted to offer further insight into the capabilities of ST2Vec.
 
 
-Reproducibility & Training:
+# Reproducibility & Training:
 
 1. When the first command of Data preprocessing is run, the following output is obtained:
 
